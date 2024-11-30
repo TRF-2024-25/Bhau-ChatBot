@@ -1,0 +1,10 @@
+{
+  "responses": {
+    "hello": "Hi there! How can I assist you?",
+    "bye": "Goodbye! Have a great day!",
+    "how are you": "I'm just a program, but I'm doing great! How about you?",
+    "what is your name": "I am your chatbot assistant.",
+    "bhau tell me about yourself": "I am the robot created by TRF"
+
+  }
+}
